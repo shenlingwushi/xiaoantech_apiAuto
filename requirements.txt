@@ -1,0 +1,5 @@
+pytest
+openpyxl
+allure-pytest
+loguru
+requests
